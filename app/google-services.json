@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "479249816159",
+    "firebase_url": "https://mizusakiyuulab8.firebaseio.com",
+    "project_id": "mizusakiyuulab8",
+    "storage_bucket": "mizusakiyuulab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479249816159:android:b6f401a98d049b0d",
+        "android_client_info": {
+          "package_name": "com.mizusaki.yuu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479249816159-52fmvaablf2gn5kjn0t7sla0qa2mdci3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mizusaki.yuu",
+            "certificate_hash": "fe534289e670fb26c530d865b3184a4a88795b8e"
+          }
+        },
+        {
+          "client_id": "479249816159-as0gl1bcb87sacbhhmh3v3729mhmdgq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsrXfrSQcd1wvdtjah8Fzj3-CVmnWdCnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479249816159-as0gl1bcb87sacbhhmh3v3729mhmdgq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
